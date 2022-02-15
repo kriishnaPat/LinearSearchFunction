@@ -1,0 +1,16 @@
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.exe
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.deps.json
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.runtimeconfig.json
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.runtimeconfig.dev.json
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.dll
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\ref\binarySearchFunction.dll
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\bin\Debug\net5.0\binarySearchFunction.pdb
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.dll
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\ref\binarySearchFunction.dll
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.pdb
+\\fs-059\studuser$\Gr12\k.patel61\binarySearchFunction\obj\Debug\net5.0\binarySearchFunction.genruntimeconfig.cache
