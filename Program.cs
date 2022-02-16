@@ -4,22 +4,22 @@ namespace binarySearchFunction
 {
     class Program
     {
-        static int linearSearch(int[] anArray, int array){
+        static int linearSearch(int[] anArray, int item){
             for (int i=0; i < anArray.Length; i++){
-                if (anArray[i] == array){
-                    Console.WriteLine(i);
+                if (anArray[i] == item){
+                    return i;
                 }
             }
             return -1;
         }
 
-        static string linearSearchStr(string[] anArray, string array){
+        static int linearSearchStr(string[] anArray, string item){
            for (int i=0; i < anArray.Length; i++){
-                if (String.Equals(anArray[i], array)){
-                    Console.WriteLine(i);
+                if (String.Equals(anArray[i], item)){
+                    return i;
                 }
             }
-           return "-1";
+           return -1;
         }
 
         static void Main(string[] args)
